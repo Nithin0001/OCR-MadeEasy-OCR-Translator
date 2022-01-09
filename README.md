@@ -1,0 +1,1 @@
+# Nithin0001-OCR-MadeEasy-OCR-Translator
