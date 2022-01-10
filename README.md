@@ -6,7 +6,7 @@ Tkinter<br />
 Tesseract<br />
 Cloud Translation.<br />
 
-App UI 
+App UI<br/>
 
 <img width="1280" alt="Screenshot 2022-01-09 at 9 15 05 PM" src="https://user-images.githubusercontent.com/80560020/148689777-3bf1cfc4-1a4f-42ef-ab12-8ef5ce638c2e.png">
 
